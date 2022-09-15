@@ -43,7 +43,7 @@ Note that the complete component list can be found in the BOM [here](pcb-design-
 <a name='software-features'></a>
 ### Software features
 
-- Technical
+Technical:
  - Small Device C Compiler aka sdcc
  - Mix of assembly & C
  - Bitbanged I²C & SPI interfaces
@@ -53,7 +53,7 @@ Note that the complete component list can be found in the BOM [here](pcb-design-
 
 <br>
 
-- Functional
+Functional:
  - 2 types of pets
  - Time/clock
  - Emotion shown by the virtual pet and on the RGB LED
