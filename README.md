@@ -43,23 +43,23 @@ Note that the complete component list can be found in the BOM [here](pcb-design-
 <a name='software-features'></a>
 ### Software features
 
-* Technical
- * Small Device C Compiler aka sdcc
- * Mix of assembly & C
- * Bitbanged I²C & SPI interfaces
- * Interrupt based time interval
- * Animations based on 'diffs'
- * Views (state machines)
- 
+- Technical
+ - Small Device C Compiler aka sdcc
+ - Mix of assembly & C
+ - Bitbanged I²C & SPI interfaces
+ - Interrupt based time interval
+ - Animations based on 'diffs'
+ - Views (state machines)
+
 <br>
 
-* Functional
- * 2 types of pets
- * Time/clock
- * Emotion shown by the virtual pet and on the RGB LED
- * Sleep time between 8 pm and 9 am
- * Satisfaction/emotion depends on care
- * Feeding, washing, playing a game
+- Functional
+ - 2 types of pets
+ - Time/clock
+ - Emotion shown by the virtual pet and on the RGB LED
+ - Sleep time between 8 pm and 9 am
+ - Satisfaction/emotion depends on care
+ - Feeding, washing, playing a game
 
 <a name='hardware-features'></a>
 ### Hardware features
