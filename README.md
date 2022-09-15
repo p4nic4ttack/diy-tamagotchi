@@ -215,7 +215,7 @@ When compiling with the following command (which worked in the beginning), I sta
 <code>
 $ sdcc --debug <b>--model-small</b> --use-stdout -V --xram-loc 0xF000 --xram-size 0x600 --code-size 0x7000 -I/home/xoreo/sdcc-Tamagotchi/ -o/home/xoreo/sdcc-Tamagotchi/main.hex /home/xoreo/sdcc-Tamagotchi/main.rel /home/xoreo/sdcc-Tamagotchi/xc888_lib.rel /home/xoreo/sdcc-Tamagotchi/led.rel /home/xoreo/sdcc-Tamagotchi/lcd.rel /home/xoreo/sdcc-Tamagotchi/buttons.rel /home/xoreo/sdcc-Tamagotchi/position.rel /home/xoreo/sdcc-Tamagotchi/character.rel /home/xoreo/sdcc-Tamagotchi/menu.rel /home/xoreo/sdcc-Tamagotchi/rtc.rel /home/xoreo/sdcc-Tamagotchi/games.rel
 </code><br>
-The following error was returned:
+The following error was returned:<br>
 <img src="pictures/dseg.png"/>
 <br>
 Using the `--model-medium` compiler flag instead solved the problem for some extra time, until I received the next error:<br>
