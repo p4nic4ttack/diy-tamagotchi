@@ -42,6 +42,7 @@ Note that the complete component list can be found in the BOM [here](pcb-design-
 
 <a name='software-features'></a>
 ### Software features
+
 - Technical
  - Small Device C Compiler aka sdcc
  - Mix of assembly & C
@@ -49,6 +50,7 @@ Note that the complete component list can be found in the BOM [here](pcb-design-
  - Interrupt based time interval
  - Animations based on 'diffs'
  - Views (state machines)
+
 
 - Functional
  - 2 types of pets
